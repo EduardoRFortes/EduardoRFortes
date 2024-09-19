@@ -2,9 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/recent-activity/all/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_fortes/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodriguesfortes179@gmail.com)
 
-![EduardoRFortes GitHub stats](https://github-readme-stats.vercel.app/api?username=EduaroRFortes&show_icons=true&theme=transparent)
+![EduardoRFortes GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduaroRFortes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que mais utilizo:
 <div style="display: inline_block"><br/>
