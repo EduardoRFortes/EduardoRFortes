@@ -28,16 +28,14 @@
 
 <br/>
 
-<h3 align="center">🏆 GitHub Trophies & Streak</h3>
+<h3 align="center">🐍 My Contributions</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EduardoRFortes&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoRFortes&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoRFortes/EduardoRFortes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoRFortes/EduardoRFortes/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduardoRFortes/EduardoRFortes/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
