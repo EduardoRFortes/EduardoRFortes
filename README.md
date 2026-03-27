@@ -8,11 +8,6 @@
 
 ---
 
-#### 👨‍💻 Sobre mim
-Atualmente atuando como Desenvolvedor Full Stack, focado em construir aplicações web modernas, eficientes e escaláveis. Tenho forte interesse em arquitetura de sistemas, segurança e no ecossistema Linux, sempre explorando novas formas de otimizar a experiência do usuário e o fluxo de dados.
-
----
-
 #### 🚀 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br/>
