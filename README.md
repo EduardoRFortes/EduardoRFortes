@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Eduardo Fortes 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+@fortesecurity;Node.js+%7C+React+%7C+PostgreSQL;Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+@fortesecurity;Node.js+%7C+React+%7C+MySQL;Linux+User" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,postgres,linux" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,ts,html,css,mysql,linux" alt="My Skills" />
   </a>
 </div>
 
