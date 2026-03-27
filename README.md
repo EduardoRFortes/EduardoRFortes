@@ -24,15 +24,11 @@
 <br/>
 
 ---
-
 #### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=transparent&hide_border=true" alt="EduardoRFortes GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-</div>
+[![EduardoRFortes GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=transparent&hide_border=true&v=1)](https://github.com/EduardoRFortes)
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent&hide_border=true&v=1)](https://github.com/EduardoRFortes)
 
 ---
 
