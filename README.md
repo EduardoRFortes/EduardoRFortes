@@ -1,47 +1,28 @@
-<h1 align="center">Hi! I'm Eduardo Fortes 👋</h1>
+# Hi! I'm Eduardo Fortes 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+at+@fortesecurity;Node.js+%7C+React+%7C+MySQL;Linux+User" alt="Typing SVG" />
-</div>
+**Full Stack Developer at @fortesecurity | Node.js | React | MySQL | Linux User**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/recent-activity/all/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/im_fortes/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:rodriguesfortes179@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_fortes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguesfortes179@gmail.com)
 
-<br/>
+---
 
-<h3 align="center">🚀 Technologies & Tools</h3>
+### 🚀 Technologies & Tools
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,ts,html,css,mysql,linux" alt="My Skills" />
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,html,css,mysql,linux)](https://skillicons.dev)
 
-<br/>
+---
 
-<h3 align="center">🐍 My Contributions</h3>
+### 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoRFortes/EduardoRFortes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoRFortes/EduardoRFortes/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduardoRFortes/EduardoRFortes/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<h3 align="center">📫 How to reach me</h3>
-
-<p align="center">
-  Feel free to reach out through my social media or via email. I'm always open to new opportunities and collaborations!
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Eduardo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
+
+---
+
+### 📫 How to reach me
+
+Feel free to reach out through my social media or via email. I'm always open to new opportunities and collaborations!
