@@ -16,10 +16,8 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Eduardo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=transparent&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent)
 
 ---
 
