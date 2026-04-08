@@ -16,8 +16,8 @@
 
 ### 📊 GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=transparent&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=transparent&include_all_commits=true&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent&v=1)
 
 ---
 
