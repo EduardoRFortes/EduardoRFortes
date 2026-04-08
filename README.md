@@ -25,4 +25,4 @@
 
 ### 📫 How to reach me
 
-Feel free to reach out through my social media or via email. I'm always open to new opportunities and collaborations!
+Feel free to reach out through my social media or via email.
