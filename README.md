@@ -1,6 +1,6 @@
 # Hi! I'm Eduardo Fortes 👋
 
-**Full Stack Developer at @fortesecurity | Node.js | React | MySQL | Linux User**
+**Full Stack Developer at @fortesecurity**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_fortes/)
