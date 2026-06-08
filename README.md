@@ -1,5 +1,3 @@
-<div align="center">
-
 # Eduardo Fortes
 
 **Computer Networks Technology Student · Developer**
@@ -7,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_fortes/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodriguesfortes179@gmail.com)
-
-</div>
 
 ---
 
@@ -20,11 +16,7 @@ Computer Networks student at CTISM/UFSM, focused on IoT systems, network securit
 
 ### 🛠 Technologies
 
-<div align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,html,css,mysql,linux,python,cpp,mqtt)](https://skillicons.dev)
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,html,css,mysql,linux,python,cpp)](https://skillicons.dev)
 
 ---
 
@@ -34,19 +26,15 @@ Computer Networks student at CTISM/UFSM, focused on IoT systems, network securit
 
 Extending an existing BLE-based infrastructure with UHF RFID (EPC-Gen2) for real-time patrimonial asset tracking. The stack runs on ESP32 + R200 readers → MQTT/TLS → C++ controller → WebSocket → Python/FastAPI middleware → authenticated real-time dashboard.
 
-> *CTISM/UFSM · Expected completion: December 2026*
+> *CTISM/UFSM · Expected completion: June 2026*
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=EduardoRFortes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoRFortes&show_icons=true&theme=default&include_all_commits=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=default&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 ---
 
