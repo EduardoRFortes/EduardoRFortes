@@ -30,14 +30,6 @@ Extending an existing BLE-based infrastructure with UHF RFID (EPC-Gen2) for real
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EduardoRFortes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRFortes&layout=compact&theme=transparent&hide_border=true&langs_count=6)
-
----
-
 ### 📫 Contact
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/) or at rodriguesfortes179@gmail.com.
