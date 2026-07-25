@@ -1,6 +1,14 @@
+<div align="center">
+
+```
+●  ●  ●   ~/README.md
+```
+
 # Eduardo Fortes
 
 Computer Networks Technology Student · Developer
+
+</div>
 
 ---
 
@@ -27,24 +35,26 @@ eta:        CTISM/UFSM, December 2026
 
 ---
 
-### stack
+### projects
 
-```yaml
-- node.js
-- react
-- typescript
-- python
-- c++
-- mysql
-- linux
-```
+| repo | description |
+|---|---|
+| [SistemaRFID-FREERTOS](https://github.com/EduardoRFortes/SistemaRFID-FREERTOS) | ESP32 modules rewritten to run on FreeRTOS for the RFID reading system |
+| [spec-windows](https://github.com/EduardoRFortes/spec-windows) | Permission monitor for Claude Code on Windows (Rust port of spec-fedora) |
+| [CalculadoraFinanceira](https://github.com/EduardoRFortes/CalculadoraFinanceira) | GUI calculator built in C++ to practice interface and logic |
 
 ---
 
-### contact
+### connect
 
-```yaml
-linkedin: linkedin.com/in/eduardo-rodrigues-fortes-02a75b329
-mail:     rodriguesfortes179@gmail.com
-instagram: im_fortes
-```
+<p>
+  <a href="https://github.com/EduardoRFortes"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rodriguesfortes179@gmail.com"><img src="https://img.shields.io/badge/mail-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoRFortes&theme=github-dark&hide_border=true&bg_color=00000000&area=true" width="100%"/>
