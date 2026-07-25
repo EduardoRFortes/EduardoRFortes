@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eduardo%20Fortes&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Networks%20Tech%20%C2%B7%20IoT%20%26%20Backend&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eduardo%20Fortes&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Networks%20Tech%20%C2%B7%20IoT%20and%20Backend&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+IoT+%2B+backend+systems;RFID+%2B+MQTT+%2B+FastAPI;CTISM%2FUFSM+%E2%80%94+finishing+my+thesis" alt="Typing SVG" />
