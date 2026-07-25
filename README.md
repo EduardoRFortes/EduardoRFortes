@@ -12,10 +12,12 @@ Computer Networks student at CTISM/UFSM, focused on IoT systems, network securit
 
 ### Technologies
 
-- **Languages** — TypeScript · Python · C++
-- **Frameworks & Libraries** — Node.js · React
-- **Databases** — MySQL
-- **Tools & OS** — Linux
+```yaml
+languages: [TypeScript, Python, C++]
+frameworks: [Node.js, React]
+databases: [MySQL]
+tools: [Linux]
+```
 
 ---
 
