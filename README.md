@@ -1,6 +1,4 @@
-# Eduardo Fortes
-
-*Computer Networks Technology student · backend & IoT developer*
+<img src="assets/banner.svg" width="100%" alt="Eduardo Fortes — Computer Networks Technology Student · Developer" />
 
 ---
 
@@ -18,4 +16,4 @@ Studying at CTISM/UFSM, working across embedded systems, secure networking, and 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/) · [Instagram](https://www.instagram.com/im_fortes/) · [rodriguesfortes179@gmail.com](mailto:rodriguesfortes179@gmail.com)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=black&height=22"><img alt="github" src="https://api.iconify.design/simple-icons/github.svg?color=black&height=22" height="22"></picture>](https://github.com/EduardoRFortes)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=22"><img alt="linkedin" src="https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=22" height="22"></picture>](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=black&height=22"><img alt="instagram" src="https://api.iconify.design/simple-icons/instagram.svg?color=black&height=22" height="22"></picture>](https://www.instagram.com/im_fortes/)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=22"><img alt="mail" src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=22" height="22"></picture>](mailto:rodriguesfortes179@gmail.com)
