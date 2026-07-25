@@ -1,19 +1,35 @@
-<img src="assets/banner.svg" width="100%" alt="Eduardo Fortes — Computer Networks Technology Student · Developer" />
+# Eduardo Fortes
+
+**Computer Networks Technology Student · Developer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_fortes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodriguesfortes179@gmail.com)
 
 ---
 
-Studying at CTISM/UFSM, working across embedded systems, secure networking, and backend services.
+### About
 
-**Now** — finishing my undergraduate thesis: an ESP32 + UHF RFID pipeline (EPC-Gen2) that talks to a C++ controller over MQTT/TLS, bridges to a FastAPI middleware over WebSocket, and surfaces on a real-time dashboard. Expected December 2026.
-
-**Stack** — `node` `react` `typescript` `python` `c++` `mysql` `linux`
-
-**Projects**
-
-- [SistemaRFID-FREERTOS](https://github.com/EduardoRFortes/SistemaRFID-FREERTOS) — ESP32 modules rewritten to run on FreeRTOS
-- [spec-windows](https://github.com/EduardoRFortes/spec-windows) — permission monitor for Claude Code on Windows, in Rust
-- [CalculadoraFinanceira](https://github.com/EduardoRFortes/CalculadoraFinanceira) — a small GUI calculator in C++
+Computer Networks student at CTISM/UFSM, focused on IoT systems, network security, and backend development. Currently finishing my undergraduate thesis on RFID-based asset tracking over secure MQTT infrastructure.
 
 ---
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=black&height=22"><img alt="github" src="https://api.iconify.design/simple-icons/github.svg?color=black&height=22" height="22"></picture>](https://github.com/EduardoRFortes)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=22"><img alt="linkedin" src="https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=22" height="22"></picture>](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=black&height=22"><img alt="instagram" src="https://api.iconify.design/simple-icons/instagram.svg?color=black&height=22" height="22"></picture>](https://www.instagram.com/im_fortes/)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=22"><img alt="mail" src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=22" height="22"></picture>](mailto:rodriguesfortes179@gmail.com)
+### 🛠 Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,html,css,mysql,linux,python,cpp)](https://skillicons.dev)
+
+---
+
+### 🔭 Current Project
+
+**Undergraduate Thesis — RFID Asset Tracking System**
+
+Extending an existing BLE-based infrastructure with UHF RFID (EPC-Gen2) for real-time patrimonial asset tracking. The stack runs on ESP32 + R200 readers → MQTT/TLS → C++ controller → WebSocket → Python/FastAPI middleware → authenticated real-time dashboard.
+
+> *CTISM/UFSM · Expected completion: December 2026*
+
+---
+
+### 📫 Contact
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/) or at rodriguesfortes179@gmail.com.
