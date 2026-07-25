@@ -12,7 +12,10 @@ Computer Networks student at CTISM/UFSM, focused on IoT systems, network securit
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,html,css,mysql,linux,python,cpp)](https://skillicons.dev)
+- **Languages** — TypeScript · Python · C++
+- **Frameworks & Libraries** — Node.js · React
+- **Databases** — MySQL
+- **Tools & OS** — Linux
 
 ---
 
