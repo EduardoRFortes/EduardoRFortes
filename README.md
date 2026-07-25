@@ -2,10 +2,6 @@
 
 **Computer Networks Technology Student · Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_fortes/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodriguesfortes179@gmail.com)
-
 ---
 
 ### About
@@ -14,13 +10,13 @@ Computer Networks student at CTISM/UFSM, focused on IoT systems, network securit
 
 ---
 
-### 🛠 Technologies
+### Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,html,css,mysql,linux,python,cpp)](https://skillicons.dev)
 
 ---
 
-### 🔭 Current Project
+### Current Project
 
 **Undergraduate Thesis — RFID Asset Tracking System**
 
@@ -30,6 +26,6 @@ Extending an existing BLE-based infrastructure with UHF RFID (EPC-Gen2) for real
 
 ---
 
-### 📫 Contact
+### Contact
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/) or at rodriguesfortes179@gmail.com.
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=black&height=22"><img alt="github" src="https://api.iconify.design/simple-icons/github.svg?color=black&height=22" height="22"></picture>](https://github.com/EduardoRFortes)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=22"><img alt="linkedin" src="https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=22" height="22"></picture>](https://www.linkedin.com/in/eduardo-rodrigues-fortes-02a75b329/)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=black&height=22"><img alt="instagram" src="https://api.iconify.design/simple-icons/instagram.svg?color=black&height=22" height="22"></picture>](https://www.instagram.com/im_fortes/)&nbsp; &nbsp;[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=white&height=22"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=22"><img alt="mail" src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=22" height="22"></picture>](mailto:rodriguesfortes179@gmail.com)
