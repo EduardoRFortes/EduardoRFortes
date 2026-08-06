@@ -23,7 +23,7 @@ tools: [Linux]
 
 ### Current Project
 
-**Undergraduate Thesis — RFID Asset Tracking System**
+**Undergraduate Thesis - RFID Asset Tracking System**
 
 Extending an existing BLE-based infrastructure with UHF RFID (EPC-Gen2) for real-time patrimonial asset tracking. The stack runs on ESP32 + R200 readers → MQTT/TLS → C++ controller → WebSocket → Python/FastAPI middleware → authenticated real-time dashboard.
 
